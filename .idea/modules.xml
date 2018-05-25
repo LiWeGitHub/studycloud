@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myClient/myClient.iml" filepath="$PROJECT_DIR$/myClient/myClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myClientRepeat/myClientRepeat.iml" filepath="$PROJECT_DIR$/myClientRepeat/myClientRepeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myServer/myServer.iml" filepath="$PROJECT_DIR$/myServer/myServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studycloud.iml" filepath="$PROJECT_DIR$/studycloud.iml" />
+    </modules>
+  </component>
+</project>
