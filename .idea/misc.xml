@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/myClient" />
     <file type="web" url="file://$PROJECT_DIR$/myClientRepeat" />
+    <file type="web" url="file://$PROJECT_DIR$/myRibbon" />
     <file type="web" url="file://$PROJECT_DIR$/myServer" />
   </component>
   <component name="MavenProjectsManager">

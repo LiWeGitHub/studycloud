@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="myClient" />
         <module name="myClientRepeat" />
+        <module name="myRibbon" />
         <module name="myServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="myClient" target="1.7" />
       <module name="myClientRepeat" target="1.7" />
+      <module name="myRibbon" target="1.8" />
       <module name="myServer" target="1.7" />
       <module name="studycloud" target="1.8" />
     </bytecodeTargetLevel>
