@@ -13,6 +13,7 @@
         <module>myClient</module>
         <module>myClientRepeat</module>
         <module>myRibbon</module>
+        <module>MyFegions</module>
     </modules>
     <name>eureka-server</name>
     <description>Demo project for Spring Boot</description>
