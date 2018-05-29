@@ -14,6 +14,7 @@
         <module>myClientRepeat</module>
         <module>myRibbon</module>
         <module>MyFegions</module>
+        <module>MyZuul</module>
     </modules>
     <name>eureka-server</name>
     <description>Demo project for Spring Boot</description>

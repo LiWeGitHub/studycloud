@@ -13,6 +13,7 @@
         <module name="MyFegions" />
         <module name="myRibbon" />
         <module name="myServer" />
+        <module name="MyZuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="MyRegion" target="1.7" />
       <module name="myRibbon" target="1.8" />
       <module name="myServer" target="1.7" />
+      <module name="MyZuul" target="1.8" />
       <module name="studycloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>

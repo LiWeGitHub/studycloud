@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyFegion/MyFegion.iml" filepath="$PROJECT_DIR$/MyFegion/MyFegion.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFegions/MyFegions.iml" filepath="$PROJECT_DIR$/MyFegions/MyFegions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyZuul/MyZuul.iml" filepath="$PROJECT_DIR$/MyZuul/MyZuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/myClient/myClient.iml" filepath="$PROJECT_DIR$/myClient/myClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/myClientRepeat/myClientRepeat.iml" filepath="$PROJECT_DIR$/myClientRepeat/myClientRepeat.iml" />
       <module fileurl="file://$PROJECT_DIR$/myRibbon/myRibbon.iml" filepath="$PROJECT_DIR$/myRibbon/myRibbon.iml" />

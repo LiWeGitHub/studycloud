@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/MyRegion" />
     <file type="web" url="file://$PROJECT_DIR$/myRibbon" />
     <file type="web" url="file://$PROJECT_DIR$/myServer" />
+    <file type="web" url="file://$PROJECT_DIR$/MyZuul" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
